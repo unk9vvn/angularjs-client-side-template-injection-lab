@@ -4,7 +4,7 @@ a simple lab created for testing CSTI vulnerability in AngularJS version 1.0.8, 
 ## How to Use
 Simply clone this repository into your PHP host:
 ```
-git clone https://github.com/MrT3acher/angularjs-client-side-template-injection-lab
+git clone https://github.com/unk9vvn/angularjs-client-side-template-injection-lab
 ```
 
 Then you can access this laboratory using your browser and visiting the corresponding URL (in my case http://localhost).
